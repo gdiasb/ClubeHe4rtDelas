@@ -47,6 +47,7 @@ O que este livro inclui: a abordagem de algoritmos de pesquisa, ordenação e al
 1.  Não li todo o capítulo combinado, posso participar? Claro que sim!
 2.  Tenho vergonha de falar em canal de voz, posso participar? Por favor, venha participar! Quando você estiver confortável para começar a conversar, é só abrir o mic. Não precisa ter vergonha, certo? Queremos te acolher!
 3.  Não posso participar toda semana, tudo bem? Sim!
+4.  Não me enquadro como mulher cis/trans ou pessoa não-binária, posso participar? Claro, muchacho! (E vai ser muito bem-vindo)
 <br /> 
 
 
